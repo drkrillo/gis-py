@@ -1,5 +1,4 @@
 .venv
 __pycache__
-export_python_paths.py
-export_qgis_envs.py
+qgis_sys_paths.csv
 qgis_env.json
